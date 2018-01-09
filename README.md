@@ -1,2 +1,2 @@
 # dcgoodridge.github.io
-Github Pages for personal website
+Github Pages for personal website.
