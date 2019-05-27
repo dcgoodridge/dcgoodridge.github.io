@@ -1,0 +1,16 @@
+- education:
+  degree: Master's Degree Field Of Study - IT & Telecommunications Engineering
+  university: Universidad de Zaragoza
+  time: 2011 - 2012
+  # details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+  # elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  # magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  # pellentesque eu, pretium quis, sem."
+- education:
+  degree: Bachelor’s Degree Field Of Study - IT & Telecommunications Engineering
+  university: Universidad de Zaragoza
+  time: 2005 - 2010
+  # details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+  # elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  # magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  # pellentesque eu, pretium quis, sem."

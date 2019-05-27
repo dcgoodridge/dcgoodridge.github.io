@@ -1,0 +1,14 @@
+- experience:
+  role: Software Engineer
+  time: 2015 - Present
+  company: Teltronic, Zaragoza
+  details:
+   - text: "- Mant: Req"
+   - text: "- Tech"
+- experience:
+  role: DevOps & Frontend Engineer
+  time: 201x - 201x
+  company: Teltronic, Zaragoza
+  details:
+    - text: "- Scrum Master: Agile developments. Balance project demand with available resources. Estimate development cost efforts."
+

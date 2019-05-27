@@ -1,0 +1,42 @@
+# Site Settings
+title: Daniel Calatayud
+description: Check out my resume
+url: 'https://danniebgoode.github.io/resume/'
+baseurl: '/resume' #change it according to your repository name
+about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
+
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+# style: styles-6
+
+
+#Profile information
+name: Daniel Calatayud
+tagline: Product Owner
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
+email: danielcalatayudf@gmail.com
+# phone: 012 345 6789
+website: criptomo.com #do not add http://
+linkedin: danielcalatayud
+github: danniebgoode
+twitter: '@DannieBGoode'
+#Update all the sections by editing the files inside _data folder.
+
+# uncomment the next line, if you want the education section displayed in main instead of the sidebar
+#education_in_main: True
+
+# Tracker
+analytics: UA-110091733-2
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
